@@ -3,13 +3,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjt4515&count_bg=%2371CBFF&title_bg=%2364FF7C&icon=github.svg&icon_color=%23282323&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![jjt4515's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjt4515&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/jjt4515/github-readme-stats)
+
 <br>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
   <a href="https://imjintaek.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
-[![jjt4515's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjt4515&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/jjt4515/github-readme-stats)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
