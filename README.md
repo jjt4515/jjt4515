@@ -6,6 +6,7 @@
 
 [![jjt4515's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjt4515&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/jjt4515/github-readme-stats)
 
+<br>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
