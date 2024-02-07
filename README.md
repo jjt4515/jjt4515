@@ -5,3 +5,4 @@
 
 [![jjt4515's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjt4515&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/jjt4515/github-readme-stats)
 
+<a href="https://imjintaek.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
