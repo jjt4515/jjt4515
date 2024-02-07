@@ -9,8 +9,7 @@
 
 <br>
 
-
-<div align="center">
+<div align="left">
 <h2> Introduction </h2>
 <p>안녕하세요! 백엔드 공부하는 정진택입니다.</p>
 </div>
