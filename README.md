@@ -9,6 +9,13 @@
 
 <br>
 
+
+<div align="center">
+<h2> Introduction </h2>
+<p>안녕하세요! 백엔드 공부하는 정진택입니다.</p>
+</div>
+
+
 ## My Blog
 <div style="display:flex; flex-direction:row;">
   <a href="https://imjintaek.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
