@@ -46,16 +46,17 @@
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   </div>
   
-  ### ☁️Cloud & Storage
+  ### ☁️Cloud
   <div>
       <img src="https://img.shields.io/badge/aws%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
       <img src="https://img.shields.io/badge/aws%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">
   </div>
  
-  ### 🔧DevOps & CI/CD
+  ### 🔧DevOps
   <div>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+      <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white">
   </div>
 
   ### 🌐Frontend
@@ -75,6 +76,7 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)">
       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div><br>
 </div>
