@@ -44,12 +44,17 @@
   <div>
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   </div>
   
   ### ☁️Cloud
   <div>
       <img src="https://img.shields.io/badge/aws%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
       <img src="https://img.shields.io/badge/aws%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS%20ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS%20ELB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   </div>
  
   ### 🔧DevOps
